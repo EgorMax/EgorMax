@@ -1,4 +1,4 @@
-### Hi there 👋
+### https://EgorMax.github.io/rsschool-cv/cv 👋
 
 <!--
 **EgorMax/EgorMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
