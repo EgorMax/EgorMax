@@ -1,6 +1,5 @@
 ## Egor Maksimov<br>
 #### My Email: egormaks2004@gmail.com<br><br>
-***
 * I'm 15 and I live in small town in Russia.<br>
 My goal is upgrade my JavaScript's skills and learn something new what would help me in my future job or some kind of projects.<br>
 > I have no experience in programming but I have desire to learn. <br><br>
